@@ -5,156 +5,137 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Yassir Bouayad Tlemcani - CV">
   <title>Yassir Bouayad Tlemcani - CV</title>
+  <style>
+    body{font-family:Arial,Helvetica,sans-serif;line-height:1.5;color:#111;margin:24px;max-width:900px}
+    header{border-bottom:1px solid #ddd;padding-bottom:12px;margin-bottom:18px}
+    h1{margin:0;font-size:26px}
+    h2{font-size:18px;margin:18px 0 8px}
+    h3{font-size:16px;margin:10px 0}
+    p,li{font-size:14px}
+    ul{margin:6px 0 12px;padding-left:20px}
+    .meta{margin-top:6px}
+    .contact a{color:#0366d6;text-decoration:none}
+    section{margin-bottom:12px}
+    .muted{color:#555;font-size:13px}
+  </style>
 </head>
 <body>
   <header>
-    <h1>Yassir Bouayad Tlemcani</h1>
-    <p>Metro Manila, Philippines | +63 9988525707 | yassir.info@gmail.com | <a href="https://www.linkedin.com/in/yassir-bouayad-tlemcani-15bb782a1" target="_blank">LinkedIn</a></p>
+    <h1>Yassir BOUAYAD TLEMCANI</h1>
+    <p class="meta">Station Head | Airport Operations and Safety Management | Lean Six Sigma Black Belt</p>
+    <p class="contact muted">Metro Manila, Philippines | +63 9988525707 | <a href="mailto:yassir.info@gmail.com">yassir.info@gmail.com</a> | <a href="https://www.linkedin.com/in/yassir-bouayad-tlemcani-15bb782a1" target="_blank" rel="noopener">LinkedIn</a></p>
   </header>
+
   <main>
     <section id="summary">
       <h2>SUMMARY</h2>
-      <p>With over 16 years in airport operations and ground handling, I have led teams of 250+ employees and managed 300+ weekly flights, ensuring safe, efficient, and customer-focused performance. A Lean Six Sigma Black Belt, I deliver measurable improvements in cost control, service quality, and operational compliance. Experienced in liaising with airport authorities, regulators, and airline partners to maintain world-class safety and service standards, with full responsibility for station operations, safety, and financial performance.
+      <p>With over 16 years in airport operations and ground handling, I have led teams of 250+ employees and managed 300+ weekly flights, ensuring safe, efficient, and customer-focused performance. A Lean Six Sigma Black Belt, I deliver measurable improvements in cost control, service quality, and operational compliance. Experienced in liaising with airport authorities, regulators, and airline partners to maintain world-class safety and service standards, with full responsibility for station operations, safety, and financial performance.</p>
+    </section>
 
-PROFESSIONAL TRAINING
-• Black Belt Lean Six Sigma & LSS AI Belt Certified.
-• Load Control and Balance License (Royal Air Maroc, Air France, Qatar Airways, Trukish Airlines, Saoudi Airlines, Iberia, EL AL).</p>
-    </section>
     <section id="work-experience">
-      <h2>Work Experience</h2>
+      <h2>WORK EXPERIENCE</h2>
+
       <article>
-        <h3>Station Manager, RAMHANDLING ROYAL AIR MAROC</h3>
-        <p>Marrakech, Morocco | 05/2023 – 12/2023</p>
+        <h3>Station Manager, Airport Services Manager — RAMHANDLING (Royal Air Maroc)</h3>
+        <p class="muted">Marrakech, Morocco | 05/2023 – 01/2024</p>
         <ul>
-          <li>Obtained ISAGO certification for Marrakech Airport, demonstrating my commitment to the highest safety and operational standards.</li>
-          <li>Top VIP Flight Handling.</li>
-          <li>Successfully implemented an advanced fuel efficiency plan, leading to a 30% reduction in fuel consumption for ground support equipment.</li>
-          <li>Managed security systems and training program evaluations.</li>
-          <li>Ground Support Equipment (GSE) Management.</li>
-          <li>Internal auditor for regulatory compliance (IATA, ICAO).</li>
-          <li>Personnel management, resource and manpower planning, team leadership, and staff development.</li>
-          <li>Compliance with regulations and safety standards, risk management and incident investigation, health and safety compliance.</li>
-          <li>Stakeholder and airline relations.</li>
-          <li>Emergency situation management, handling delays, irregularities, crisis and emergency management.</li>
-          <li>Operational performance analysis, project management and strategic planning, budgetary planning.</li>
+          <li>Secured ISAGO certification for Marrakech Airport, ensuring compliance with international safety and operational standards.</li>
+          <li>Developed and managed training programs for over 250 employees, enhancing operational performance.</li>
+          <li>Top VVIP flight handling.</li>
+          <li>Reduced ground support equipment fuel consumption by 30% through an energy efficiency plan.</li>
+          <li>GSE management and preventive maintenance oversight.</li>
+          <li>Internal auditor for IATA/ICAO regulatory compliance.</li>
+          <li>Personnel management, resource and manpower planning, team leadership and development.</li>
+          <li>Represented the airline in the Airport Operators Committee (AOC) and liaised with authorities and stakeholders.</li>
+          <li>Emergency, irregularities and crisis management. Maintained SLA performance and airline relations.</li>
         </ul>
       </article>
+
       <article>
-        <h3>Terminal Duty Manager, RAMHANDLING ROYAL AIR MAROC</h3>
-        <p>Marrakech, Morocco | 01/2021 – 05/2023</p>
+        <h3>Terminal Duty Manager — RAMHANDLING (Royal Air Maroc)</h3>
+        <p class="muted">Marrakech, Morocco | 01/2021 – 05/2023</p>
         <ul>
-          <li>Reduced turnaround times by 15% through improved team coordination and optimized processes.</li>
-          <li>Managed VIP flight handling.</li>
-          <li>Effectively managed operational disruptions during peak seasons, ensuring minimal delays through coordinated responses to last-minute changes in flight schedules.</li>
-          <li>Handled baggage, cargo and reconciliation, ground operations management, and stakeholder relations.</li>
-          <li>Emergency management and supervision of ground staff.</li>
-          <li>Operational performance analysis and reporting documentation (KPIs).</li>
-          <li>Ground Support Equipment (GSE) Management.</li>
+          <li>Reduced turnaround times by 15% through improved coordination and process optimisation.</li>
+          <li>VIP flight handling. Managed end-to-end baggage operations and reduced mishandled baggage incidents.</li>
+          <li>Coordinated ramp and encoding teams to ensure accurate and timely baggage loading and unloading.</li>
+          <li>Balanced operational performance with commercial priorities to support airline retention and contract growth.</li>
+          <li>Led crisis response during peak seasons to limit delays and disruptions.</li>
         </ul>
       </article>
+
       <article>
-        <h3>Duty Officer, RAMHANDLING ROYAL AIR MAROC</h3>
-        <p>Marrakech, Morocco | 01/2018 – 01/2021</p>
+        <h3>Duty Officer — RAMHANDLING (Royal Air Maroc)</h3>
+        <p class="muted">Marrakech, Morocco | 01/2018 – 01/2021</p>
         <ul>
-          <li>Delay management and operational performance analysis.</li>
-          <li>Coordinated ground resources and ensured compliance with dangerous goods regulations.</li>
-          <li>Managed emergency situations and regulatory compliance.</li>
-          <li>Reporting and documentation (KPIs) and established the flight supervisors' roster.</li>
+          <li>Managed delays and performed operational performance analysis to minimise impact on schedules.</li>
+          <li>Coordinated airside resources and ensured compliance with Dangerous Goods Regulations.</li>
+          <li>Prepared KPIs, reports and managed the flight supervisors' roster.</li>
         </ul>
       </article>
+
       <article>
-        <h3>Flight Supervisor, Load Master, Load Control, RAMHANDLING ROYAL AIR MAROC</h3>
-        <p>Marrakech, Morocco | 02/2013 – 01/2018</p>
+        <h3>Flight Supervisor / Load Master / Load Control — RAMHANDLING (Royal Air Maroc)</h3>
+        <p class="muted">Marrakech, Morocco | 02/2013 – 01/2018</p>
         <ul>
-          <li>Strong communication skills with experience liaising between airlines and operational teams to enhance service delivery and client satisfaction.</li>
-          <li>Prepared and validated Load Sheets for various aircraft types, ensuring optimal weight distribution for both safety and operational efficiency.</li>
-          <li>Supervised loading operations, including the distribution of baggage, cargo, and Ground Support Equipment (GSE), ensuring compliance with aircraft weight and balance restrictions.</li>
-          <li>Guided aircraft with a headset or using beacons, following conventional gestures.</li>
-          <li>Coordinated with ramp handling teams and cabin crew to ensure adherence to safety and security procedures while optimizing aircraft turnaround times.</li>
-          <li>Trained and mentored new team members on load control best practices and the use of computerized systems for weight and balance tracking (Altea CM/FM, Amadeus).</li>
+          <li>Prepared and validated load sheets for multiple aircraft types ensuring weight and balance compliance.</li>
+          <li>Supervised loading operations and coordinated baggage, cargo and GSE distribution.</li>
+          <li>Guided aircraft marshalling and coordinated with cabin crew to maintain safety and on-time performance.</li>
+          <li>Trained new staff on load control systems (Altea CM/FM, Amadeus) and best practices.</li>
         </ul>
       </article>
+
       <article>
-        <h3>Leader for Check-in and Boarding Process, RAMHANDLING ROYAL AIR MAROC</h3>
-        <p>Marrakech, Morocco | 02/2012 – 02/2013</p>
+        <h3>Leader for Check-in and Boarding Process / Customer Service Agent — Atlas Multi Services (Royal Air Maroc)</h3>
+        <p class="muted">Marrakech, Morocco | 02/2008 – 02/2013</p>
         <ul>
-          <li>Provided direction and guidance to team members.</li>
-          <li>Organized tasks and set goals for enhanced passenger services.</li>
-          <li>Managed cargo & baggage, passenger, crew, and VIP transportation, staff shuttle service, passenger and crew baggage sortation, reconciliation, transfer baggage handling, and special baggage handling.</li>
-          <li>Sales and commercial experience.</li>
-        </ul>
-      </article>
-      <article>
-        <h3>Customer Service Agent, Atlas Multi Services, ROYAL AIR MAROC</h3>
-        <p>Marrakech, Morocco | 02/2008 – 02/2012</p>
-        <ul>
-          <li>Check-in and customer service excellence.</li>
-          <li>Boarding, ticketing, and transit coordination.</li>
-          <li>Flight coordination and leadership.</li>
+          <li>Led front-line teams for check-in, boarding and passenger services including VIP handling and special baggage.</li>
+          <li>Managed ticketing, transit coordination and passenger experience improvements.</li>
         </ul>
       </article>
     </section>
+
     <section id="education">
-      <h2>Education</h2>
+      <h2>EDUCATION</h2>
       <ul>
-        <li><strong>2001</strong>: High School Diploma, Zerktouni High School, Marrakech, Morocco</li>
-        <li><strong>2005</strong>: Bachelor's Degree in Applied Computer Science in Management, ISG, Tunisia</li>
+        <li><strong>2007</strong> — Bachelor's Degree, Applied Computer Science in Management and Finance, ISG, Tunisia</li>
+        <li><strong>2000</strong> — High School Diploma, Zerktouni High School, Marrakech, Morocco</li>
       </ul>
     </section>
+
     <section id="training">
-      <h2>Professional Training</h2>
+      <h2>PROFESSIONAL TRAINING</h2>
       <ul>
-        <li>Load Control and Balance License (Saudi Airlines, Royal Air Maroc, Air France, Turkish Airlines, Qatar Airways, EL AL).</li>
-        <li>Safety Management Systems.</li>
-        <li>Training in Safety, Security, Dangerous Goods, Marshaling, and Human Factors.</li>
-        <li>Training Certificate in General and Operational Pedagogy.</li>
-        <li>Training Certificate in Opening Aircraft Doors (Qatar Airways, Royal Air Maroc).</li>
-        <li>Six Sigma certification.</li>
+        <li>Black Belt Lean Six Sigma and LSS AI Belt Certified</li>
+        <li>ISAGO audit and certification leadership</li>
+        <li>Load Control and Balance License (Saudia, Royal Air Maroc, Air France, Turkish Airlines, Qatar Airways, EL AL)</li>
+        <li>Safety Management Systems, Dangerous Goods, Marshaling and Human Factors</li>
+        <li>Training Certificate: General and Operational Pedagogy</li>
+        <li>Training Certificate: Opening Aircraft Doors (Qatar Airways, Royal Air Maroc)</li>
       </ul>
     </section>
+
     <section id="skills">
-      <h2>Skills</h2>
+      <h2>SKILLS</h2>
       <ul>
-        <li>Leadership and Team Management</li>
-        <li>Six Sigma</li>
-        <li>5S Methodology</li>
-        <li>Customer Service</li>
-        <li>Collaboration with Digital & Marketing Teams</li>
-        <li>Problem-Solving</li>
-        <li>Ground Operations Management</li>
-        <li>Communication Skills</li>
-        <li>Ramp Handling and Turnaround Coordination</li>
-        <li>VIP Flight Handling</li>
-        <li>Baggage Handling and Reconciliation</li>
-        <li>Resource and Manpower Planning</li>
-        <li>Knowledge of Aviation Regulations</li>
-        <li>Training and Development</li>
-        <li>Service Level Agreement (SLA) Compliance</li>
-        <li>Time Management and Organization</li>
-        <li>Teamwork</li>
-        <li>Stress Management</li>
-        <li>Project Management and Strategic Planning</li>
-        <li>Crisis Management</li>
-        <li>Ramp Management</li>
-        <li>Weight and Balance</li>
-        <li>Dangerous Goods Regulations</li>
-        <li>International Civil Aviation Safety</li>
-        <li>Flight Delay Management</li>
-        <li>Microsoft Office</li>
-        <li>Altea CM/FM System</li>
-        <li>Amadeus</li>
-        <li>Gonow System</li>
-        <li>Troya System</li>
+        <li>Station management, airport and ground operations</li>
+        <li>Safety and compliance, SMS implementation</li>
+        <li>GSE optimisation and KPI reporting</li>
+        <li>CRISIS & IRROPS management</li>
+        <li>Lean Six Sigma (Black Belt)</li>
+        <li>Load control and weight & balance</li>
+        <li>Altea CM/FM, Amadeus, Gonow, Troya</li>
       </ul>
     </section>
+
     <section id="languages">
-      <h2>Languages</h2>
+      <h2>LANGUAGES</h2>
       <ul>
         <li>Arabic: Native speaker</li>
         <li>French: Proficient</li>
         <li>English: Proficient</li>
       </ul>
     </section>
+
   </main>
 </body>
 </html>
