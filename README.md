@@ -14,13 +14,7 @@
   <main>
     <section id="summary">
       <h2>SUMMARY</h2>
-      <p>With more than 16 years of experience in ground operation, I have created a strong expertise led by airport operations, security compliance and teams. My career with RAMHANDLING (Royal Air Maroc subsidiary) allowed me to grow through various main roles - Flight Supervisor, Duty Officer, Duty Manager, and eventually, station manager - where I led a team of 250+ employees did and manage over 300 weekly flights.
-
-Throughout my career, I have worked with major international airlines, including Royal Air Maroc, Qatar Airways, Air France, Saudi Airlines,Turkish Airlines, Iberia and L Al, ensuring seamless ground operations and compliance with IATA and ISAGO standards.
-
-As a certified trainer (general directorate of civil aviation), I have contributed to the professional development initiative, share the best practice of the industry and promote the culture of skill. In addition, I played an important role in the Isago audit process, which helped Marrakech Station successfully obtain certification.
-
-My passion for improving operational skills, security and process is now reinforced by my Lean Six Sigma Black Belt certification and LSS AI Belt, which can lead to continuous improvement in efficiency and aviation operations.
+      <p>With over 16 years in airport operations and ground handling, I have led teams of 250+ employees and managed 300+ weekly flights, ensuring safe, efficient, and customer-focused performance. A Lean Six Sigma Black Belt, I deliver measurable improvements in cost control, service quality, and operational compliance. Experienced in liaising with airport authorities, regulators, and airline partners to maintain world-class safety and service standards, with full responsibility for station operations, safety, and financial performance.
 
 PROFESSIONAL TRAINING
 • Black Belt Lean Six Sigma & LSS AI Belt Certified.
